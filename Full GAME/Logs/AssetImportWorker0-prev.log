@@ -1,0 +1,330 @@
+Using pre-set license
+Built from '2021.3/china_unity/release' branch; Version is '2021.3.18f1c1 (93698379025b) revision 9660803'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32636 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Avatar\Project\Tool\Unity\Eidition\Unity 2021.3.18f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/27385/Documents/WeChat Files/wxid_j41sfk4rzg4h22/FileStorage/File/2024-04/A3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56837
+Successfully changed project path to: C:/Users/27385/Documents/WeChat Files/wxid_j41sfk4rzg4h22/FileStorage/File/2024-04/A3
+C:/Users/27385/Documents/WeChat Files/wxid_j41sfk4rzg4h22/FileStorage/File/2024-04/A3
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [41556] Host "[IP] 172.29.28.170 [Port] 0 [Flags] 2 [Guid] 1438634644 [EditorId] 1438634644 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-O0OSGOD3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [41556] Host "[IP] 172.29.28.170 [Port] 0 [Flags] 2 [Guid] 1438634644 [EditorId] 1438634644 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-O0OSGOD3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 92.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.18f1c1 (93698379025b)
+[Subsystems] Discovering subsystems at path D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/27385/Documents/WeChat Files/wxid_j41sfk4rzg4h22/FileStorage/File/2024-04/A3/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   31.0.15.5123
+Initialize mono
+Mono path[0] = 'D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56572
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Avatar/Project/Tool/Unity/Eidition/Unity 2021.3.18f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008946 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Domain Reload Profiling:
+	ReloadAssembly (756ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (495ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (116ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (80ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (134ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.032221 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1455ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (1149ms)
+			LoadAssemblies (135ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (629ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (461ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3092 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (56.6 KB). Loaded Objects now: 3555.
+Memory consumption went from 116.3 MB to 116.2 MB.
+Total: 3.775000 ms (FindLiveObjects: 0.269100 ms CreateObjectMapping: 0.186300 ms MarkObjects: 3.204100 ms  DeleteObjects: 0.113500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 259433.518429 seconds.
+  path: Assets/New Effect Clip SO.asset
+  artifactKey: Guid(a536fe88fc46d5b4b9d3188e6ec2b8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Effect Clip SO.asset using Guid(a536fe88fc46d5b4b9d3188e6ec2b8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7de37ee96bd3b5c303189f13cceace2') in 0.041779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/1.mp3
+  artifactKey: Guid(ff4e8d79d9cc35e4d9ec69a5ffbe0647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.mp3 using Guid(ff4e8d79d9cc35e4d9ec69a5ffbe0647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973500ea969ae6b41a99c6b7efab4bf3') in 0.095858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.315164 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(29433533f668c3d438beb0323c4868bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(29433533f668c3d438beb0323c4868bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1688dc74ba622851f6ca69f77ea6514c') in 0.003572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.098754 seconds.
+  path: Assets/Polygonal Creatures Pack
+  artifactKey: Guid(1617048948f516f4f819e2f0c1df95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack using Guid(1617048948f516f4f819e2f0c1df95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593686db87b63392f2eeb50e1360feb2') in 0.004370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.354955 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Giant Bee
+  artifactKey: Guid(3fb04d42b32e84d45b631d742d94bec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Giant Bee using Guid(3fb04d42b32e84d45b631d742d94bec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6513217b16cb5345fc986ebe7b783a8') in 0.004063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.722099 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Golem
+  artifactKey: Guid(122685da8061e5a4cbcd064c894ef994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Golem using Guid(122685da8061e5a4cbcd064c894ef994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd147a2d4ad45b9b624437c49996594f9') in 0.003317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.448982 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal King Cobra
+  artifactKey: Guid(e846cf9a39c925a408bf88f0235f6a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal King Cobra using Guid(e846cf9a39c925a408bf88f0235f6a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497d676f65f4605c5dae40f95be0a541') in 0.003443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.597335 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Magma
+  artifactKey: Guid(650741a929a1a45428af6f8d24604daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Magma using Guid(650741a929a1a45428af6f8d24604daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0006ac0dd717a0831d74152bb2bd52') in 0.003388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.508839 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat
+  artifactKey: Guid(594f02c79300bd243a909e275f6bb530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat using Guid(594f02c79300bd243a909e275f6bb530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f7a0e49e48613a848591137f1cbadd') in 0.004718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.445821 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom
+  artifactKey: Guid(5ac9471cea63a174f87076ea84d0e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom using Guid(5ac9471cea63a174f87076ea84d0e042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccabc750bbdc0132aa759b4d486a1567') in 0.003709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.649078 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Treant
+  artifactKey: Guid(8a45331ecc023054fb17e107ced93863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Treant using Guid(8a45331ecc023054fb17e107ced93863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb1bf60be914c5b48bc54ed14ab1159') in 0.004076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.024138 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs
+  artifactKey: Guid(eb547ed87a4a64f4699e0a3b26e70623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs using Guid(eb547ed87a4a64f4699e0a3b26e70623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7bc8cc1aad79eb23d965d83c415530') in 0.003481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051404 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs/Polygonal One Eyed Bat Black.prefab
+  artifactKey: Guid(399b523a20958ab46b3a2f6950049880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs/Polygonal One Eyed Bat Black.prefab using Guid(399b523a20958ab46b3a2f6950049880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6daac898da4a22a3e0e490ef5bd771e3') in 0.097897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs/Polygonal One Eyed Bat Red.prefab
+  artifactKey: Guid(8cda73cac996b3546bce0b8d9874d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal One Eyed Bat/Prefabs/Polygonal One Eyed Bat Red.prefab using Guid(8cda73cac996b3546bce0b8d9874d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2e673bf628d985d1d7800950eaf1f8') in 0.063119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.495221 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs
+  artifactKey: Guid(0e6d985c8c49a554e86bb21e75fdabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs using Guid(0e6d985c8c49a554e86bb21e75fdabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0505e8657579855191efc2f54f68f7c9') in 0.003417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054847 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Demo Polygonal Spiderling Venom Green.prefab
+  artifactKey: Guid(3be27dd1cbd9d05478917bb7574d7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Demo Polygonal Spiderling Venom Green.prefab using Guid(3be27dd1cbd9d05478917bb7574d7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd50bb4122ec3bbc06d2ad968fc3ba3') in 0.100569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Polygonal Spiderling Venom Magenta.prefab
+  artifactKey: Guid(ca4dde43a8317714582f4c92a26710f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Polygonal Spiderling Venom Magenta.prefab using Guid(ca4dde43a8317714582f4c92a26710f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb4def4d74a72318378d0f73898833d') in 0.097874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Polygonal Spiderling Venom Green.prefab
+  artifactKey: Guid(e40b79fb161efd24caad306957de5887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Creatures Pack/Polygonal Spiderling Venom/Prefabs/Polygonal Spiderling Venom Green.prefab using Guid(e40b79fb161efd24caad306957de5887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8469792920c53c542b521f6ed3c7d41c') in 0.100360 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.031236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.406 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1406ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1082ms)
+			LoadAssemblies (144ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (254ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (587ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (428ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3072 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16 unused Assets / (24.6 KB). Loaded Objects now: 3569.
+Memory consumption went from 131.7 MB to 131.7 MB.
+Total: 3.167000 ms (FindLiveObjects: 0.205700 ms CreateObjectMapping: 0.154400 ms MarkObjects: 2.783000 ms  DeleteObjects: 0.022700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
